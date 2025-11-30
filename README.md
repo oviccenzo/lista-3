@@ -2,7 +2,7 @@
 
 Um projeto simples para demonstrar como consumir APIs usando JavaScript vanilla e a Fetch API.
 
-](https://github.com/andreluizfrancabatista/pokedex_aula/blob/main/preview_desktop.png)
+preview_desktop.png
 
 ## 🎯 O que faz
 
