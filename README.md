@@ -2,7 +2,7 @@
 
 Um projeto simples para demonstrar como consumir APIs usando JavaScript vanilla e a Fetch API.
 
-![Uploading preview_desktop.png…]()
+<img width="708" height="657" alt="preview_desktop" src="https://github.com/user-attachments/assets/5ceb29d4-2d3f-4772-98d9-69f4494d4a4b" />
 
 ## 🎯 O que faz
 
