@@ -1,7 +1,3 @@
-terceiro trabalho de programação para internet 1 que é criar codigo para encontrar o pokemon
-
-
-
 # Pokédex - Consumo de API com JavaScript
 
 Um projeto simples para demonstrar como consumir APIs usando JavaScript vanilla e a Fetch API.
