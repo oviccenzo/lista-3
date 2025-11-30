@@ -2,7 +2,7 @@
 
 Um projeto simples para demonstrar como consumir APIs usando JavaScript vanilla e a Fetch API.
 
-preview_desktop.png
+![Uploading image.png…]()
 
 ## 🎯 O que faz
 
